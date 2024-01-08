@@ -1,4 +1,4 @@
-### Aplikasi Count Down Timer
+## Aplikasi Count Down Timer
 Anggota Kelompok :
 1. Dona Damara_C2157201014
 2. Sety Sinsiya D.U Sera_C2157201016
